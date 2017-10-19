@@ -36,8 +36,7 @@
 ボードゲームの選び方
 
 - 体験
-  - ボードゲームカフェ
-    <http://jellyjellycafe.com/shoplist/ikebukuro>
+  - [ボードゲームカフェ]<http://jellyjellycafe.com/games>
   - ボードゲーム市場
 - 検索
  - ドイツ年間ゲーム大賞
