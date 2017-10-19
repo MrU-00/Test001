@@ -26,13 +26,12 @@
 ![alt](img2/s3.png)
 
 ---
-ボードゲームの今
+ボードゲームとビジネス
 
 - [市場規模](http://tsunagu-smile.jp/post-4533/ "市場規模")
 - [社内交流](http://blog.excite.co.jp/exdev/27360781/ "社内交流")
-- [マインドラボ](http://www.excite.co.jp/News/economy_clm/20141009/Harbor_business_9911.html "マインドラボ")
 - [社内研修](https://www.projectdesign.co.jp/2015/08/27/2118 "社内研修")
-
+- [マインドラボ](http://www.excite.co.jp/News/economy_clm/20141009/Harbor_business_9911.html "マインドラボ")
 
 ---
 ボードゲームの選び方
