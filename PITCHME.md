@@ -44,8 +44,7 @@
   - [Amazonボードゲームランキング]("Amazonボードゲームランキング")
   - [ボードゲームおすすめサイト]("ボードゲームおすすめサイト")
 
-----
-
+---
 おすすめ紹介
 
 - [ラブレター](http://www.arclight.co.jp/ag/ll/index.php?page=product　"ラブレター")
