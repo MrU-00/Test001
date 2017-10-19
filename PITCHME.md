@@ -35,10 +35,10 @@
 ---
 ボードゲームの選び方
 
-- 体験
-  - [ボードゲームカフェ]<http://jellyjellycafe.com/games>
+体験
+  - [ボードゲームカフェ](http://jellyjellycafe.com/games "ボードゲームカフェ")
   - ボードゲーム市場
-- 検索
+検索
  - ドイツ年間ゲーム大賞
  - Amazon
  - ボードゲームおすすめサイト
